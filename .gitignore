@@ -1,0 +1,14 @@
+/system/
+/tests/
+/vendor/
+/writable/
+/.env
+node_modules/
+.DS_Store
+/graphify-out
+.graphifyignore
+.agent
+.agents
+.claude
+.codex
+.opencode
