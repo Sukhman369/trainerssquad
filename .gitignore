@@ -1,6 +1,3 @@
-/system/
-/tests/
-/vendor/
 /writable/
 /.env
 node_modules/
@@ -12,3 +9,9 @@ node_modules/
 .claude
 .codex
 .opencode
+.gitignore
+.env
+writable/
+.agents/rules/
+AGENTS.md
+opencode.json
